@@ -6,7 +6,10 @@ permalink: /projects/
 
 # Current project
 - Asymptotic conditional transport with cycle consistency
-<img src="{{ site.baseurl }}/assets/img/posts/gan.gif" ALIGN="center" style="margin:10px 15px"/>
+## Satellite image
+<img src="{{ site.baseurl }}/assets/img/posts/real.gif" ALIGN="left" style="margin:10px 15px"/>
+## Google map image
+<img src="{{ site.baseurl }}/assets/img/posts/fake.gif" ALIGN="right" style="margin:10px 15px"/>
 
 # Past projects
 - [Predicting patients with high readmission risks]({{ site.baseurl }}/share/dell_med_poster.pdf) 
