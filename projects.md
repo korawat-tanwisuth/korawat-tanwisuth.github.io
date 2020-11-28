@@ -6,9 +6,9 @@ permalink: /projects/
 
 # Current project
 - Asymptotic conditional transport with cycle consistency
-## Satellite image
+## Real satellite image 
 <img src="{{ site.baseurl }}/assets/img/posts/real.gif" ALIGN="left" style="margin:10px 15px"/>
-## Google map image
+## Generated Google map image
 <img src="{{ site.baseurl }}/assets/img/posts/fake.gif" ALIGN="right" style="margin:10px 15px"/>
 
 # Past projects
