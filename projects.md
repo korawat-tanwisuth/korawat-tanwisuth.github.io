@@ -6,6 +6,7 @@ permalink: /projects/
 
 # Current project
 - Asymptotic conditional transport with cycle consistency
+
 ### Real satellite image 
 <img src="{{ site.baseurl }}/assets/img/posts/real.png" ALIGN="center" style="margin:10px 15px"/> 
 
