@@ -12,7 +12,7 @@ My name is Korawat, but I go by "K" for short". I am originally from Bangkok, Th
 
 I have experience in both open-ended research and applied machine learning projects. I interned at Hypergiant as a data scientist and at Amazon as an applied scientist. To see a complete list of my work experience, you can find my [LinkedIn](https://www.linkedin.com/in/korawat-tanwisuth-238401a7/) here.
 
-Here are my most recent [projects]({{site.baseurl}}/projects/).
+Here are my most recent [publications]({{site.baseurl}}/publications/).
 
 You can read more about my [research]({{ site.baseurl }}/research/)  here.
 
