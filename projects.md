@@ -1,19 +1,21 @@
 ---
 layout: page
 title: Projects
-permalink: /projects/
+permalink: /Publications/
 ---
 
-# Current project
-- Asymptotic conditional transport with cycle consistency
+# List of Publications
+1. A Prototype-Oriented Framework for Unsupervised Domain Adaptation (NeurIPS 2021)
 
-In this project, we propose a new divergence measure, termed asymptotic conditional transport, to match the marginal distributions of images from two domains. The example below shows an application of our algorithm. We can convert satellite images to their Google map counterparts. Our divergence measure consistently outperforms traditional image translation algorithms in terms of generating high-quality and realistic images.
+**Korawat Tanwisuth**, Xinjie Fan, Huangjie Zheng, Shujian Zhang, Hao Zhang, Bo Chen, Mingyuan Zhou
 
-### Real satellite image 
-<img src="{{ site.baseurl }}/assets/img/posts/real.png" ALIGN="center" style="margin:10px 15px"/> 
+2. Alignment Attention by Matching Key and Query Distributions (NeurIPS 2021)
 
-### Generated Google map image
-<img src="{{ site.baseurl }}/assets/img/posts/fake.png" ALIGN="center" style="margin:10px 15px"/> 
+Shujian Zhang, Xinjie Fan, Huangjie Zheng, **Korawat Tanwisuth**, and Mingyuan Zhou
+
+3. Contextual Dropout: An Efficient Sample-Dependent Dropout Module (ICLR 2021)
+
+Xinjie Fan, Shujian Zhang, **Korawat Tanwisuth**, Xiaoning Qian, and Mingyuan Zhou
 
 # Past projects
 - [Predicting patients with high readmission risks]({{ site.baseurl }}/share/dell_med_poster.pdf) 
